@@ -7,4 +7,6 @@ class Post
   end
 end
 
+post = Post.new
+author = Author.new
 post.author = author
